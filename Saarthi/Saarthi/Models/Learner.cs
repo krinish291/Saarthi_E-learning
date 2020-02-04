@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Saarthi.Models
+namespace WindowsFormsApplication1.Models
 {
     public class Learner
     {

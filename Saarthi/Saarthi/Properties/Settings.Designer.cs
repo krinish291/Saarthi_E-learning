@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Saarthi.Properties
+namespace WindowsFormsApplication1.Properties
 {
 
 

@@ -1,11 +1,11 @@
-﻿using Saarthi.Models;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using WindowsFormsApplication1.Models;
 
-namespace Saarthi
+namespace WindowsFormsApplication1
 {
     static class Program
     {
@@ -17,19 +17,19 @@ namespace Saarthi
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new Home());
 
-            DBEF te = new DBEF();
-            Learner tl = new Learner();
-            tl.Email = "dfas";
-            tl.F_Name = "fhj";
-            tl.L_Name = "djhgfbk";
-            tl.Password = "fgda";
-            tl.confPassWord = "fgda";
-            tl.M_Name = "hjdfsa";
-            tl.LearnerId = "13572";
-            te.Learners.Add(tl);
-            te.SaveChanges();
+            //dbef te = new dbef();
+            //learner tl = new learner();
+            //tl.email = "dfas";
+            //tl.f_name = "fhj";
+            //tl.l_name = "djhgfbk";
+            //tl.password = "fgda";
+            //tl.confpassword = "fgda";
+            ////tl.m_name = "hjdfsa";
+            //tl.learnerid = "4";
+            //te.learners.add(tl);
+            //te.savechanges();
 
         }
     }
