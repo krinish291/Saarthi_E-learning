@@ -41,9 +41,82 @@ E:\Myproject\Saarthi_E-learning\Saarthi\Saarthi\bin\Debug\EntityFramework.dll
 E:\Myproject\Saarthi_E-learning\Saarthi\Saarthi\bin\Debug\EntityFramework.SqlServer.dll
 E:\Myproject\Saarthi_E-learning\Saarthi\Saarthi\bin\Debug\EntityFramework.xml
 E:\Myproject\Saarthi_E-learning\Saarthi\Saarthi\bin\Debug\EntityFramework.SqlServer.xml
-E:\Myproject\Saarthi_E-learning\Saarthi\Saarthi\obj\Debug\Saarthi.csprojResolveAssemblyReference.cache
-E:\Myproject\Saarthi_E-learning\Saarthi\Saarthi\obj\Debug\WindowsFormsApplication1.Form1.resources
 E:\Myproject\Saarthi_E-learning\Saarthi\Saarthi\obj\Debug\WindowsFormsApplication1.Home.resources
 E:\Myproject\Saarthi_E-learning\Saarthi\Saarthi\obj\Debug\WindowsFormsApplication1.Migrations.init.resources
 E:\Myproject\Saarthi_E-learning\Saarthi\Saarthi\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
 E:\Myproject\Saarthi_E-learning\Saarthi\Saarthi\obj\Debug\Saarthi.csproj.GenerateResource.Cache
+E:\Myproject\Saarthi_E-learning\Saarthi\Saarthi\obj\Debug\WindowsFormsApplication1.Registration.resources
+E:\Myproject\Saarthi_E-learning\Saarthi\Saarthi\obj\Debug\WindowsFormsApplication1.Migrations.init1.resources
+E:\Myproject\Saarthi_E-learning\Saarthi\Saarthi\obj\Debug\WindowsFormsApplication1.Login.resources
+E:\Myproject\Saarthi_E-learning\Saarthi\Saarthi\obj\Debug\WindowsFormsApplication1.Migrations.init2.resources
+E:\Myproject\Saarthi_E-learning\Saarthi\Saarthi\obj\Debug\WindowsFormsApplication1.Migrations.init3.resources
+E:\Myproject\Saarthi_E-learning\Saarthi\Saarthi\obj\Debug\WindowsFormsApplication1.Migrations.init4.resources
+E:\Myproject\Saarthi_E-learning\Saarthi\Saarthi\obj\Debug\WindowsFormsApplication1.Migrations.init5.resources
+E:\Myproject\Saarthi_E-learning\Saarthi\Saarthi\obj\Debug\Saarthi.csprojAssemblyReference.cache
+E:\Myproject\Saarthi_E-learning\Saarthi\Saarthi\obj\Debug\Saarthi.csproj.CoreCompileInputs.cache
+E:\Myproject\Saarthi_E-learning\Saarthi\Saarthi\obj\Debug\Saarthi.csproj.CopyComplete
+C:\Myproject\Myproject\Saarthi_E-learning\Saarthi\Saarthi\obj\Debug\Saarthi.csprojAssemblyReference.cache
+C:\Myproject\Myproject\Saarthi_E-learning\Saarthi\Saarthi\obj\Debug\WindowsFormsApplication1.Login.resources
+C:\Myproject\Myproject\Saarthi_E-learning\Saarthi\Saarthi\obj\Debug\WindowsFormsApplication1.Home.resources
+C:\Myproject\Myproject\Saarthi_E-learning\Saarthi\Saarthi\obj\Debug\WindowsFormsApplication1.Migrations.init.resources
+C:\Myproject\Myproject\Saarthi_E-learning\Saarthi\Saarthi\obj\Debug\WindowsFormsApplication1.Migrations.init1.resources
+C:\Myproject\Myproject\Saarthi_E-learning\Saarthi\Saarthi\obj\Debug\WindowsFormsApplication1.Migrations.init2.resources
+C:\Myproject\Myproject\Saarthi_E-learning\Saarthi\Saarthi\obj\Debug\WindowsFormsApplication1.Migrations.init3.resources
+C:\Myproject\Myproject\Saarthi_E-learning\Saarthi\Saarthi\obj\Debug\WindowsFormsApplication1.Migrations.init4.resources
+C:\Myproject\Myproject\Saarthi_E-learning\Saarthi\Saarthi\obj\Debug\WindowsFormsApplication1.Migrations.init5.resources
+C:\Myproject\Myproject\Saarthi_E-learning\Saarthi\Saarthi\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Myproject\Myproject\Saarthi_E-learning\Saarthi\Saarthi\obj\Debug\WindowsFormsApplication1.Registration.resources
+C:\Myproject\Myproject\Saarthi_E-learning\Saarthi\Saarthi\obj\Debug\Saarthi.csproj.GenerateResource.cache
+C:\Myproject\Myproject\Saarthi_E-learning\Saarthi\Saarthi\obj\Debug\WindowsFormsApplication1.exe
+C:\Myproject\Myproject\Saarthi_E-learning\Saarthi\Saarthi\obj\Debug\WindowsFormsApplication1.pdb
+C:\Myproject\Myproject\Saarthi_E-learning\Saarthi\Saarthi\bin\Debug\SaarthiDB.mdf
+C:\Myproject\Myproject\Saarthi_E-learning\Saarthi\Saarthi\bin\Debug\SaarthiDB_log.ldf
+C:\Myproject\Myproject\Saarthi_E-learning\Saarthi\Saarthi\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Myproject\Myproject\Saarthi_E-learning\Saarthi\Saarthi\bin\Debug\WindowsFormsApplication1.exe
+C:\Myproject\Myproject\Saarthi_E-learning\Saarthi\Saarthi\bin\Debug\WindowsFormsApplication1.pdb
+C:\Myproject\Myproject\Saarthi_E-learning\Saarthi\Saarthi\bin\Debug\EntityFramework.dll
+C:\Myproject\Myproject\Saarthi_E-learning\Saarthi\Saarthi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Myproject\Myproject\Saarthi_E-learning\Saarthi\Saarthi\bin\Debug\EntityFramework.xml
+C:\Myproject\Myproject\Saarthi_E-learning\Saarthi\Saarthi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Myproject\Myproject\Saarthi_E-learning\Saarthi\Saarthi\obj\Debug\Saarthi.csproj.CopyComplete
+C:\Myproject\Myproject\Saarthi_E-learning\Saarthi\Saarthi\obj\Debug\WindowsFormsApplication1.Profile.resources
+C:\Myproject\Myproject\Saarthi_E-learning\Saarthi\Saarthi\obj\Debug\WindowsFormsApplication1.Quiz.resources
+C:\Myproject\Myproject\Saarthi_E-learning\Saarthi\Saarthi\obj\Debug\WindowsFormsApplication1.Admin.resources
+C:\Myproject\Myproject\Saarthi_E-learning\Saarthi\Saarthi\obj\Debug\WindowsFormsApplication1.Migrations.init6.resources
+C:\Myproject\Myproject\Saarthi_E-learning\Saarthi\Saarthi\obj\Debug\WindowsFormsApplication1.Migrations.init7.resources
+C:\Myproject\Myproject\Saarthi_E-learning\Saarthi\Saarthi\obj\Debug\WindowsFormsApplication1.Migrations.init8.resources
+C:\Myproject\Myproject\Saarthi_E-learning\Saarthi\Saarthi\obj\Debug\WindowsFormsApplication1.Migrations.init9.resources
+C:\Myproject\Myproject\Saarthi_E-learning\Saarthi\Saarthi\obj\Debug\WindowsFormsApplication1.result.resources
+C:\Users\RADADIYA KRINISH\Desktop\Krinish\Myproject\Myproject\Saarthi_E-learning\Saarthi\Saarthi\obj\Debug\Saarthi.csprojAssemblyReference.cache
+C:\Users\RADADIYA KRINISH\Desktop\Krinish\Myproject\Myproject\Saarthi_E-learning\Saarthi\Saarthi\obj\Debug\WindowsFormsApplication1.Admin.resources
+C:\Users\RADADIYA KRINISH\Desktop\Krinish\Myproject\Myproject\Saarthi_E-learning\Saarthi\Saarthi\obj\Debug\WindowsFormsApplication1.Login.resources
+C:\Users\RADADIYA KRINISH\Desktop\Krinish\Myproject\Myproject\Saarthi_E-learning\Saarthi\Saarthi\obj\Debug\WindowsFormsApplication1.Home.resources
+C:\Users\RADADIYA KRINISH\Desktop\Krinish\Myproject\Myproject\Saarthi_E-learning\Saarthi\Saarthi\obj\Debug\WindowsFormsApplication1.Migrations.init.resources
+C:\Users\RADADIYA KRINISH\Desktop\Krinish\Myproject\Myproject\Saarthi_E-learning\Saarthi\Saarthi\obj\Debug\WindowsFormsApplication1.Migrations.init1.resources
+C:\Users\RADADIYA KRINISH\Desktop\Krinish\Myproject\Myproject\Saarthi_E-learning\Saarthi\Saarthi\obj\Debug\WindowsFormsApplication1.Migrations.init2.resources
+C:\Users\RADADIYA KRINISH\Desktop\Krinish\Myproject\Myproject\Saarthi_E-learning\Saarthi\Saarthi\obj\Debug\WindowsFormsApplication1.Migrations.init3.resources
+C:\Users\RADADIYA KRINISH\Desktop\Krinish\Myproject\Myproject\Saarthi_E-learning\Saarthi\Saarthi\obj\Debug\WindowsFormsApplication1.Migrations.init4.resources
+C:\Users\RADADIYA KRINISH\Desktop\Krinish\Myproject\Myproject\Saarthi_E-learning\Saarthi\Saarthi\obj\Debug\WindowsFormsApplication1.Migrations.init5.resources
+C:\Users\RADADIYA KRINISH\Desktop\Krinish\Myproject\Myproject\Saarthi_E-learning\Saarthi\Saarthi\obj\Debug\WindowsFormsApplication1.Migrations.init6.resources
+C:\Users\RADADIYA KRINISH\Desktop\Krinish\Myproject\Myproject\Saarthi_E-learning\Saarthi\Saarthi\obj\Debug\WindowsFormsApplication1.Migrations.init7.resources
+C:\Users\RADADIYA KRINISH\Desktop\Krinish\Myproject\Myproject\Saarthi_E-learning\Saarthi\Saarthi\obj\Debug\WindowsFormsApplication1.Migrations.init8.resources
+C:\Users\RADADIYA KRINISH\Desktop\Krinish\Myproject\Myproject\Saarthi_E-learning\Saarthi\Saarthi\obj\Debug\WindowsFormsApplication1.Migrations.init9.resources
+C:\Users\RADADIYA KRINISH\Desktop\Krinish\Myproject\Myproject\Saarthi_E-learning\Saarthi\Saarthi\obj\Debug\WindowsFormsApplication1.Profile.resources
+C:\Users\RADADIYA KRINISH\Desktop\Krinish\Myproject\Myproject\Saarthi_E-learning\Saarthi\Saarthi\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\RADADIYA KRINISH\Desktop\Krinish\Myproject\Myproject\Saarthi_E-learning\Saarthi\Saarthi\obj\Debug\WindowsFormsApplication1.Quiz.resources
+C:\Users\RADADIYA KRINISH\Desktop\Krinish\Myproject\Myproject\Saarthi_E-learning\Saarthi\Saarthi\obj\Debug\WindowsFormsApplication1.Registration.resources
+C:\Users\RADADIYA KRINISH\Desktop\Krinish\Myproject\Myproject\Saarthi_E-learning\Saarthi\Saarthi\obj\Debug\WindowsFormsApplication1.result.resources
+C:\Users\RADADIYA KRINISH\Desktop\Krinish\Myproject\Myproject\Saarthi_E-learning\Saarthi\Saarthi\obj\Debug\Saarthi.csproj.GenerateResource.cache
+C:\Users\RADADIYA KRINISH\Desktop\Krinish\Myproject\Myproject\Saarthi_E-learning\Saarthi\Saarthi\obj\Debug\Saarthi.csproj.CoreCompileInputs.cache
+C:\Users\RADADIYA KRINISH\Desktop\Krinish\Myproject\Myproject\Saarthi_E-learning\Saarthi\Saarthi\bin\Debug\SaarthiDB.mdf
+C:\Users\RADADIYA KRINISH\Desktop\Krinish\Myproject\Myproject\Saarthi_E-learning\Saarthi\Saarthi\bin\Debug\SaarthiDB_log.ldf
+C:\Users\RADADIYA KRINISH\Desktop\Krinish\Myproject\Myproject\Saarthi_E-learning\Saarthi\Saarthi\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\RADADIYA KRINISH\Desktop\Krinish\Myproject\Myproject\Saarthi_E-learning\Saarthi\Saarthi\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\RADADIYA KRINISH\Desktop\Krinish\Myproject\Myproject\Saarthi_E-learning\Saarthi\Saarthi\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\RADADIYA KRINISH\Desktop\Krinish\Myproject\Myproject\Saarthi_E-learning\Saarthi\Saarthi\bin\Debug\EntityFramework.dll
+C:\Users\RADADIYA KRINISH\Desktop\Krinish\Myproject\Myproject\Saarthi_E-learning\Saarthi\Saarthi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\RADADIYA KRINISH\Desktop\Krinish\Myproject\Myproject\Saarthi_E-learning\Saarthi\Saarthi\bin\Debug\EntityFramework.xml
+C:\Users\RADADIYA KRINISH\Desktop\Krinish\Myproject\Myproject\Saarthi_E-learning\Saarthi\Saarthi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\RADADIYA KRINISH\Desktop\Krinish\Myproject\Myproject\Saarthi_E-learning\Saarthi\Saarthi\obj\Debug\Saarthi.csproj.CopyComplete
+C:\Users\RADADIYA KRINISH\Desktop\Krinish\Myproject\Myproject\Saarthi_E-learning\Saarthi\Saarthi\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\RADADIYA KRINISH\Desktop\Krinish\Myproject\Myproject\Saarthi_E-learning\Saarthi\Saarthi\obj\Debug\WindowsFormsApplication1.pdb

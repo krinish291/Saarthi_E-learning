@@ -21,6 +21,16 @@ namespace WindowsFormsApplication1
         // on configuring and using a Code First model, see http://go.microsoft.com/fwlink/?LinkId=390109.
 
         public virtual DbSet<Learner> Learners { get; set; }
+
+        public virtual DbSet<Standard> Standards { get; set; }
+
+        public virtual DbSet<Subject> Subjects { get; set; }
+
+        public virtual DbSet<Chapter> Chapters { get; set; }
+
+        public virtual DbSet<Question> Questions { get; set; }
+
+        public virtual DbSet<Result> Results { get; set; }
     }
 
     //public class MyEntity

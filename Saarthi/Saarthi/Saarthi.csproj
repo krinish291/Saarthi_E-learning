@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{2AAA9035-28E9-44EF-9509-93B2622AE403}</ProjectGuid>
+    <ProjectGuid>{F5F376F7-F093-4F52-A57B-74F650E2E634}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>WindowsFormsApplication1</RootNamespace>
@@ -72,11 +72,18 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="ActualQuiz.cs" />
+    <Compile Include="Admin.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="Admin.Designer.cs">
+      <DependentUpon>Admin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
     </Compile>
     <Compile Include="Home.cs">
       <SubType>Form</SubType>
@@ -88,8 +95,49 @@
     <Compile Include="Migrations\202001270647265_init.Designer.cs">
       <DependentUpon>202001270647265_init.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202002170553555_init1.cs" />
+    <Compile Include="Migrations\202002170553555_init1.Designer.cs">
+      <DependentUpon>202002170553555_init1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202002240600506_init2.cs" />
+    <Compile Include="Migrations\202002240600506_init2.Designer.cs">
+      <DependentUpon>202002240600506_init2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202002240627318_init3.cs" />
+    <Compile Include="Migrations\202002240627318_init3.Designer.cs">
+      <DependentUpon>202002240627318_init3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202002240631354_init4.cs" />
+    <Compile Include="Migrations\202002240631354_init4.Designer.cs">
+      <DependentUpon>202002240631354_init4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202002240707476_init5.cs" />
+    <Compile Include="Migrations\202002240707476_init5.Designer.cs">
+      <DependentUpon>202002240707476_init5.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202004171519538_init6.cs" />
+    <Compile Include="Migrations\202004171519538_init6.Designer.cs">
+      <DependentUpon>202004171519538_init6.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202004171522390_init7.cs" />
+    <Compile Include="Migrations\202004171522390_init7.Designer.cs">
+      <DependentUpon>202004171522390_init7.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202004181223190_init8.cs" />
+    <Compile Include="Migrations\202004181223190_init8.Designer.cs">
+      <DependentUpon>202004181223190_init8.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202004181225002_init9.cs" />
+    <Compile Include="Migrations\202004181225002_init9.Designer.cs">
+      <DependentUpon>202004181225002_init9.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
+    <Compile Include="Models\Chapter.cs" />
     <Compile Include="Models\Learner.cs" />
+    <Compile Include="Models\Question.cs" />
+    <Compile Include="Models\Result.cs" />
+    <Compile Include="Models\Standard.cs" />
+    <Compile Include="Models\Subject.cs" />
     <Compile Include="Profile.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -99,14 +147,90 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="DBEF.cs" />
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="Quiz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Quiz.Designer.cs">
+      <DependentUpon>Quiz.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Registration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Registration.Designer.cs">
+      <DependentUpon>Registration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="result.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="result.Designer.cs">
+      <DependentUpon>result.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SaarthiDBDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SaarthiDBDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SaarthiDBDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SaarthiDBDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SaarthiDBDataSet2.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SaarthiDBDataSet2.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SaarthiDBDataSet3.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SaarthiDBDataSet3.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SaarthiDBDataSet4.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SaarthiDBDataSet4.xsd</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Admin.resx">
+      <DependentUpon>Admin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Home.resx">
       <DependentUpon>Home.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202001270647265_init.resx">
       <DependentUpon>202001270647265_init.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202002170553555_init1.resx">
+      <DependentUpon>202002170553555_init1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202002240600506_init2.resx">
+      <DependentUpon>202002240600506_init2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202002240627318_init3.resx">
+      <DependentUpon>202002240627318_init3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202002240631354_init4.resx">
+      <DependentUpon>202002240631354_init4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202002240707476_init5.resx">
+      <DependentUpon>202002240707476_init5.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202004171519538_init6.resx">
+      <DependentUpon>202004171519538_init6.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202004171522390_init7.resx">
+      <DependentUpon>202004171522390_init7.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202004181223190_init8.resx">
+      <DependentUpon>202004181223190_init8.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202004181225002_init9.resx">
+      <DependentUpon>202004181225002_init9.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Profile.resx">
+      <DependentUpon>Profile.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -117,6 +241,15 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+    <EmbeddedResource Include="Quiz.resx">
+      <DependentUpon>Quiz.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Registration.resx">
+      <DependentUpon>Registration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="result.resx">
+      <DependentUpon>result.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -127,6 +260,61 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <None Include="SaarthiDBDataSet.xsc">
+      <DependentUpon>SaarthiDBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="SaarthiDBDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SaarthiDBDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SaarthiDBDataSet.xss">
+      <DependentUpon>SaarthiDBDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="SaarthiDBDataSet1.xsc">
+      <DependentUpon>SaarthiDBDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="SaarthiDBDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SaarthiDBDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SaarthiDBDataSet1.xss">
+      <DependentUpon>SaarthiDBDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="SaarthiDBDataSet2.xsc">
+      <DependentUpon>SaarthiDBDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="SaarthiDBDataSet2.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SaarthiDBDataSet2.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SaarthiDBDataSet2.xss">
+      <DependentUpon>SaarthiDBDataSet2.xsd</DependentUpon>
+    </None>
+    <None Include="SaarthiDBDataSet3.xsc">
+      <DependentUpon>SaarthiDBDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="SaarthiDBDataSet3.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SaarthiDBDataSet3.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SaarthiDBDataSet3.xss">
+      <DependentUpon>SaarthiDBDataSet3.xsd</DependentUpon>
+    </None>
+    <None Include="SaarthiDBDataSet4.xsc">
+      <DependentUpon>SaarthiDBDataSet4.xsd</DependentUpon>
+    </None>
+    <None Include="SaarthiDBDataSet4.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>SaarthiDBDataSet4.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="SaarthiDBDataSet4.xss">
+      <DependentUpon>SaarthiDBDataSet4.xsd</DependentUpon>
+    </None>
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config">
@@ -153,6 +341,9 @@
       <ProductName>.NET Framework 3.5 SP1</ProductName>
       <Install>false</Install>
     </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="AppData\ProfilePic\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

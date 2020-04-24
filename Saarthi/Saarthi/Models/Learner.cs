@@ -22,7 +22,7 @@ namespace WindowsFormsApplication1.Models
         [Required]
         public string Password { get; set; }
 
-        [Compare("Password", ErrorMessage = "The Password and Confirm PassWord fields do not match.")]
-        public string confPassWord { get; set; }
+       [Required]
+        public string PhotoURL { get; set; }
     }
 }
